@@ -1,3 +1,5 @@
+// Create Account class with AccountId and AccountBalance property in it. Create an AccountManager Class which contain property 1. FromAccount ( DataType->Account) 2. ToAccount ( DataType-> Account) 3. AmountToTransfer ( Double) 4. Transfer ( Depbit amount from Account to credit to another account) Create two account objects and send the money from Account A to AccountB with the help of Transfer method of accountManager. Run method for transfer on Thread. we have to wait for the thread to complete before mainthread get complete.
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
