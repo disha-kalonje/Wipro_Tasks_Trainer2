@@ -1,3 +1,5 @@
+// Write the data in three files parllely.( Number 1 to 100) 
+
 using System;
 using System.Collections.Generic;
 using System.IO;
