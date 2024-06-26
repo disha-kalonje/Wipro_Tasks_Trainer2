@@ -8,8 +8,7 @@ class Program
     static void Main(string[] args)
     {
         // Replace with your actual connection string information
-        const string ConnectionString = "your_connection_string";
-      
+        const string ConnectionString = "data source-DESKTOP-TIC5DM4\\SQLEXPRESS; initial catalog data; integrated    
         // Sample usage (assuming database already exists with tables)
         using (var context = new BloggingContext())
         {
