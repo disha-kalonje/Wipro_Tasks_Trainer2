@@ -8,7 +8,7 @@ namespace DbSQL
       static void Main(string[] args)
       {
       
-        string con = "data source-DESKTOP-TIC5DM4\\SQLEXPRESS; initial catalog employee; integrated
+        string con = "data source-DESKTOP-TIC5DM4\\SQLEXPRESS; initial catalog employee; integrated security="true";
       
         SqlConnection connection = new SqlConnection(con);
       
