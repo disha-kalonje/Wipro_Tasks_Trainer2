@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ArithmeticLibrary\ArithmeticLibrary\bin\Debug\ArithmeticLibrary.dll
+C:\Users\Administrator\source\repos\ArithmeticLibrary\ArithmeticLibrary\bin\Debug\ArithmeticLibrary.pdb
+C:\Users\Administrator\source\repos\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\ArithmeticLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\ArithmeticLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\ArithmeticLibrary.dll
+C:\Users\Administrator\source\repos\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\ArithmeticLibrary.pdb
