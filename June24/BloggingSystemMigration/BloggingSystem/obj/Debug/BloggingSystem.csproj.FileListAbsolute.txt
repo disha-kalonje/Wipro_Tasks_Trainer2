@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\obj\Debug\BloggingSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\obj\Debug\BloggingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\bin\Debug\BloggingSystem.exe.config
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\bin\Debug\BloggingSystem.exe
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\bin\Debug\BloggingSystem.pdb
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\obj\Debug\Blogging.7EED5937.Up2Date
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\obj\Debug\BloggingSystem.exe
+C:\Users\Administrator\source\repos\BloggingSystem\BloggingSystem\obj\Debug\BloggingSystem.pdb
